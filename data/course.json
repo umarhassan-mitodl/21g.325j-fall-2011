@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "cf705f8e-e089-1c82-e8ce-d80eace8f02b",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c5e23bc2-e3be-0d21-415a-4fe66cf49c5e",
+    "website": "21g-325j-new-culture-of-gender-queer-france-fall-2011"
+  },
+  "course_title": "New Culture of Gender: Queer France",
+  "hide_download": true,
+  "course_description": "This course addresses the place of contemporary queer identities in French discourse and discusses the new generation of queer authors and their principal concerns. Class discussions and readings will introduce students to the main classical references of queer subcultures, from Proust and Vivien to Hocquenghem and Wittig. Throughout the course, students will examines current debates on post-colonial and globalized queer identities through essays, songs, movies, and novels. Authors covered include Didier Eribon, Anne Garr\u00e9ta, Abdellah Ta\u00efa, Anne Scott, and Nina Bouraoui. This class is taught in French.\n",
+  "department_numbers": [
+    "21G",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.233J",
+  "primary_course_number": "21G.325J",
+  "course_image_thumbnail": {
+    "content": "f1561a13-0260-9713-7ffb-851c5eb692f1",
+    "website": "21g-325j-new-culture-of-gender-queer-france-fall-2011"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "1fd400d4-79da-45f2-a099-87c460fc3905",
+  "site_short_id": "21g.325j-fall-2011",
+  "site_url_path": "courses/21g-325j-new-culture-of-gender-queer-france-fall-2011",
+  "title": "Course Metadata"
+}
