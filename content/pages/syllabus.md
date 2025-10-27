@@ -166,7 +166,7 @@ Film : Valérie Minetto, _Oublier Cheyenne_ (2005)
 
 Lecture générale :
 
-David M. Halperin, "[Des lits d'initiés](http://www.unebevue.org/lunebevue-editeur/lunebevue-revue/36-l-unebevue-n16-les-communautes-electives-ii)", _L'Unebévue_, n°16, automne 2000, pp. 23-39.
+David M. Halperin, "{{% resource_link "4ecc459b-6f74-44ce-b643-e617deb77881" "Des lits d'initiés" %}}", _L'Unebévue_, n°16, automne 2000, pp. 23-39.
 
 La sous-culture homosexuelle est formée par un ensemble de représentations vernaculaires autour desquelles se constitue une communauté. Ces références varient considérablement selon l'origine géographique, le milieu social, l'espace professionnel, l'âge, la génération, etc. André Gide côtoie ainsi Mylène Farmer, François Ozon Lady Gaga, Rachilde Céline Sciamma, etc. Par-delà cette diversité, il existe tout de même un dénominateur commun : élevés comme hétérosexuels, les lesbiennes et les gays ont appris le langage et les rites de l'hétérosexualité ; ils finissent, selon les contraintes propres à leur environnement, par s'y frayer leur propre chemin en réinterprétant des références culturelles qui, _a priori_, les excluaient. Une des principales pratiques queer au sein des universités américaines a donc consisté à "queeriser" les cultures majoritaires. Ce phénomène traverse (_twerk_) les frontières nationales et questionne l'idéal universaliste français.
 
@@ -245,7 +245,7 @@ Film : François Ozon, _Le Temps qui reste_ (2004)
 
 Lecture générale :
 
-Perreau, Bruno. "La réception du geste queer en France. Performativité, subjectivation et devenir minoritaire." In Chetcuti, Natacha, and Luco Greco. [_Le genre à l'épreuve des dispositifs de pouvoir, de langage et de catégorisation sociale_](http://www.univ-paris3.fr/le-genre-a-l-epreuve-des-dispositifs-de-pouvoir-de-langage-et-de-categorisation-sociale-32327.kjsp). Presses de l'université Paris III (2011).
+Perreau, Bruno. "La réception du geste queer en France. Performativité, subjectivation et devenir minoritaire." In Chetcuti, Natacha, and Luco Greco. {{% resource_link "532e1e2a-6f95-4c8c-b58f-521d49b8a66d" "_Le genre à l'épreuve des dispositifs de pouvoir, de langage et de catégorisation sociale_" %}}. Presses de l'université Paris III (2011).
 
 Qui s'identifie comme queer en France ? Pourquoi des militants se sont-ils définis, à partir de la fin des années 1990, en référence au queer ? Comment ces mouvements sociaux coexistent-ils avec les associations gays et lesbiennes ? La troisième partie du semestre retracera l'histoire des mouvements homosexuels en France et interrogera la notion de subversion. Faut-il se vivre, se dire voire se montrer radical pour transformer radicalement les normes ? Revendiquer une position marginale ne conforte-t-il pas les catégories dominantes dans leur centralité ? Le cours montrera que la stylisation de son existence est indissociable d'une mise en question critique de son point de vue.
 
